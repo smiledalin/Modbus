@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=RS485 Member=*1
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=P2(HDR1X4)
+Added Pin To Net: NetName=B Pin=P1-1
+Added Pin To Net: NetName=GGND Pin=P1-2
+Added Pin To Net: NetName=GGND Pin=P1-3
+Added Pin To Net: NetName=A Pin=P1-4
+Added Pin To Net: NetName=VCC5V Pin=P2-1
+Added Pin To Net: NetName=ADU_TX Pin=P2-2
+Added Pin To Net: NetName=ADU_RX Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Member To Class: ClassName=RS485 Member=Component P1 Header 4
+Added Member To Class: ClassName=RS485 Member=Component P2 Header 4
+Added Room: Name=RS485

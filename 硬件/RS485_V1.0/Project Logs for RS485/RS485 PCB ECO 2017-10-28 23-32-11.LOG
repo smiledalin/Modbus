@@ -1,0 +1,159 @@
+Added Component: Designator=*1(Designer - 1)
+Added Component: Designator=1(SO-8)
+Added Component: Designator=C1(C_0805)
+Added Component: Designator=C2(C_0805)
+Added Component: Designator=C3(C_0805)
+Added Component: Designator=C4(C_0805)
+Added Component: Designator=C5(C_0805)
+Added Component: Designator=C6(C_0805)
+Added Component: Designator=C7(C_0805)
+Added Component: Designator=D1(0805-LED-RED)
+Added Component: Designator=D2(0805-LED-RED)
+Added Component: Designator=D3(0805-LED-RED)
+Added Component: Designator=D4(DIODE-1206)
+Added Component: Designator=G1(GDT2)
+Added Component: Designator=G2(1812_C)
+Added Component: Designator=J1(DG1283-5.0)
+Added Component: Designator=J2(SIP4)
+Added Component: Designator=PPTC1(1812F)
+Added Component: Designator=PPTC2(1812F)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R4(0805)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(0805)
+Added Component: Designator=R7(0805)
+Added Component: Designator=TVS1(DIODE-SMC)
+Added Component: Designator=TVS2(DIODE-SMC)
+Added Component: Designator=TVS3(DIODE-SMC)
+Added Component: Designator=U1(B0505S-1W)
+Added Component: Designator=U2(SOT-23 - duplicate1)
+Added Component: Designator=U3(SOP-14N)
+Added Component: Designator=U4(SOP-8)
+Added Pin To Net: NetName=VCC5V Pin=1-1
+Added Pin To Net: NetName=ADU_RX Pin=1-2
+Added Pin To Net: NetName=ADU_TX Pin=1-3
+Added Pin To Net: NetName=GND Pin=1-4
+Added Pin To Net: NetName=GND_485 Pin=1-5
+Added Pin To Net: NetName=ADU_TXO Pin=1-6
+Added Pin To Net: NetName=485_RX Pin=1-7
+Added Pin To Net: NetName=VCC5V_485 Pin=1-8
+Added Pin To Net: NetName=GND_485 Pin=C1-1
+Added Pin To Net: NetName=VCC5V_485 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VCC5V Pin=C2-2
+Added Pin To Net: NetName=GND_485 Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND_485 Pin=C4-1
+Added Pin To Net: NetName=VCC5V_485 Pin=C4-2
+Added Pin To Net: NetName=GND_485 Pin=C5-1
+Added Pin To Net: NetName=VCC5V_485 Pin=C5-2
+Added Pin To Net: NetName=GND_485 Pin=C6-1
+Added Pin To Net: NetName=VCC5V_485 Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=GND_485 Pin=C7-2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=ADU_RX Pin=D1-K
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=ADU_TX Pin=D2-K
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=GND_485 Pin=D3-K
+Added Pin To Net: NetName=NetC7_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=A Pin=G1-1
+Added Pin To Net: NetName=GGND Pin=G1-2
+Added Pin To Net: NetName=GND_485 Pin=G2-1
+Added Pin To Net: NetName=GGND Pin=G2-2
+Added Pin To Net: NetName=A Pin=J1-1
+Added Pin To Net: NetName=B Pin=J1-2
+Added Pin To Net: NetName=GGND Pin=J1-3
+Added Pin To Net: NetName=VCC5V Pin=J2-1
+Added Pin To Net: NetName=ADU_RX Pin=J2-2
+Added Pin To Net: NetName=ADU_TX Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=485_A Pin=PPTC1-1
+Added Pin To Net: NetName=A Pin=PPTC1-2
+Added Pin To Net: NetName=485_B Pin=PPTC2-1
+Added Pin To Net: NetName=B Pin=PPTC2-2
+Added Pin To Net: NetName=NetD1_A Pin=R1-1
+Added Pin To Net: NetName=VCC5V Pin=R1-2
+Added Pin To Net: NetName=NetD2_A Pin=R2-1
+Added Pin To Net: NetName=VCC5V Pin=R2-2
+Added Pin To Net: NetName=NetD3_A Pin=R3-1
+Added Pin To Net: NetName=VCC5V_485 Pin=R3-2
+Added Pin To Net: NetName=GND_485 Pin=R4-1
+Added Pin To Net: NetName=NetC3_2 Pin=R4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R5-1
+Added Pin To Net: NetName=NetC7_1 Pin=R5-2
+Added Pin To Net: NetName=VCC5V_485 Pin=R6-1
+Added Pin To Net: NetName=485_A Pin=R6-2
+Added Pin To Net: NetName=485_B Pin=R7-1
+Added Pin To Net: NetName=GND_485 Pin=R7-2
+Added Pin To Net: NetName=GND_485 Pin=TVS1-1
+Added Pin To Net: NetName=485_A Pin=TVS1-2
+Added Pin To Net: NetName=485_B Pin=TVS2-1
+Added Pin To Net: NetName=485_A Pin=TVS2-2
+Added Pin To Net: NetName=485_B Pin=TVS3-1
+Added Pin To Net: NetName=GND_485 Pin=TVS3-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=VCC5V Pin=U1-2
+Added Pin To Net: NetName=GND_485 Pin=U1-3
+Added Pin To Net: NetName=NetC3_2 Pin=U1-4
+Added Pin To Net: NetName=GND_485 Pin=U2-1
+Added Pin To Net: NetName=VCC5V_485 Pin=U2-2
+Added Pin To Net: NetName=NetC3_2 Pin=U2-3
+Added Pin To Net: NetName=ADU_TXO Pin=U3-1
+Added Pin To Net: NetName=NetU3_2 Pin=U3-2
+Added Pin To Net: NetName=NetU3_2 Pin=U3-3
+Added Pin To Net: NetName=NetD4_2 Pin=U3-4
+Added Pin To Net: NetName=NetC7_1 Pin=U3-5
+Added Pin To Net: NetName=485_EN Pin=U3-6
+Added Pin To Net: NetName=GND_485 Pin=U3-7
+Added Pin To Net: NetName=485_TX Pin=U3-10
+Added Pin To Net: NetName=NetU3_11 Pin=U3-11
+Added Pin To Net: NetName=NetU3_11 Pin=U3-12
+Added Pin To Net: NetName=ADU_TXO Pin=U3-13
+Added Pin To Net: NetName=VCC5V_485 Pin=U3-14
+Added Pin To Net: NetName=485_RX Pin=U4-1
+Added Pin To Net: NetName=485_EN Pin=U4-2
+Added Pin To Net: NetName=485_EN Pin=U4-3
+Added Pin To Net: NetName=485_TX Pin=U4-4
+Added Pin To Net: NetName=GND_485 Pin=U4-5
+Added Pin To Net: NetName=485_B Pin=U4-6
+Added Pin To Net: NetName=485_A Pin=U4-7
+Added Pin To Net: NetName=VCC5V_485 Pin=U4-8
+Added Member To Class: ClassName=RS485 Member=Component *1 ±Í÷æ
+Added Member To Class: ClassName=RS485 Member=Component 1 ADU3201
+Added Member To Class: ClassName=RS485 Member=Component C1 104
+Added Member To Class: ClassName=RS485 Member=Component C2 105
+Added Member To Class: ClassName=RS485 Member=Component C3 105
+Added Member To Class: ClassName=RS485 Member=Component C4 105
+Added Member To Class: ClassName=RS485 Member=Component C5 104
+Added Member To Class: ClassName=RS485 Member=Component C6 104
+Added Member To Class: ClassName=RS485 Member=Component C7 104
+Added Member To Class: ClassName=RS485 Member=Component D1 LED
+Added Member To Class: ClassName=RS485 Member=Component D2 LED
+Added Member To Class: ClassName=RS485 Member=Component D3 LED
+Added Member To Class: ClassName=RS485 Member=Component D4 1N4148
+Added Member To Class: ClassName=RS485 Member=Component G1 GDT_3
+Added Member To Class: ClassName=RS485 Member=Component G2 GDT
+Added Member To Class: ClassName=RS485 Member=Component J1 CON3
+Added Member To Class: ClassName=RS485 Member=Component J2 CON4
+Added Member To Class: ClassName=RS485 Member=Component PPTC1 10K
+Added Member To Class: ClassName=RS485 Member=Component PPTC2 10K
+Added Member To Class: ClassName=RS485 Member=Component R1 10K
+Added Member To Class: ClassName=RS485 Member=Component R2 10K
+Added Member To Class: ClassName=RS485 Member=Component R3 10K
+Added Member To Class: ClassName=RS485 Member=Component R4 10K
+Added Member To Class: ClassName=RS485 Member=Component R5 10K
+Added Member To Class: ClassName=RS485 Member=Component R6 10K
+Added Member To Class: ClassName=RS485 Member=Component R7 10K
+Added Member To Class: ClassName=RS485 Member=Component TVS1 TVS_2
+Added Member To Class: ClassName=RS485 Member=Component TVS2 TVS_2
+Added Member To Class: ClassName=RS485 Member=Component TVS3 TVS_2
+Added Member To Class: ClassName=RS485 Member=Component U1 B0505S-1W
+Added Member To Class: ClassName=RS485 Member=Component U2 ME6209_SOT233
+Added Member To Class: ClassName=RS485 Member=Component U3 74LS04
+Added Member To Class: ClassName=RS485 Member=Component U4 SP3485
+Added Room: Name=RS485

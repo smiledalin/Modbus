@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=A Pin=J1-1
+Removed Pin From Net: NetName=B Pin=J1-4
+Removed Pin From Net: NetName=485_A Pin=PPTC1-1
+Removed Pin From Net: NetName=485_B Pin=PPTC2-1
+Removed Pin From Net: NetName=485_A Pin=TVS1-2
+Removed Pin From Net: NetName=485_B Pin=TVS2-1
+Removed Pin From Net: NetName=485_A Pin=TVS2-2
+Removed Pin From Net: NetName=485_B Pin=TVS3-1
+Added Pin To Net: NetName=B Pin=J1-1
+Added Pin To Net: NetName=A Pin=J1-4
+Added Pin To Net: NetName=485_B Pin=PPTC1-1
+Added Pin To Net: NetName=485_A Pin=PPTC2-1
+Added Pin To Net: NetName=485_B Pin=TVS1-2
+Added Pin To Net: NetName=485_A Pin=TVS2-1
+Added Pin To Net: NetName=485_B Pin=TVS2-2
+Added Pin To Net: NetName=485_A Pin=TVS3-1
+Change Net Name : Old Net Name=A New Net Name=B
+Change Net Name : Old Net Name=B New Net Name=A
+Added Room: Name=RS485

@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=PA7 Pin=D8-K
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=BOOT1 Pin=R1-2
+Removed Pin From Net: NetName=BOOT0 Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=OSC32_IN Pin=R9-2
+Removed Pin From Net: NetName=OSC32_OUT Pin=R10-2
+Removed Pin From Net: NetName=PA7 Pin=R22-2
+Removed Pin From Net: NetName=VCC3V Pin=R25-2
+Removed Pin From Net: NetName=VCC3V Pin=S1-3
+Removed Pin From Net: NetName=VCC3V Pin=S1-4
+Removed Pin From Net: NetName=OSC32_IN Pin=S1-7
+Removed Pin From Net: NetName=OSC32_OUT Pin=S1-8
+Removed Pin From Net: NetName=ADC2 Pin=U2-15
+Removed Pin From Net: NetName=ADC3 Pin=U2-16
+Removed Member From Class: ClassName=RS485_Demo_Bord_v1.0 Member=C22
+Removed Member From Class: ClassName=RS485_Demo_Bord_v1.0 Member=R25
+Removed Member From Class: ClassName=RS485_Demo_Bord_v1.0 Member=R26
+Removed Member From Class: ClassName=RS485_Demo_Bord_v1.0 Member=R27
+Removed Member From Class: ClassName=RS485_Demo_Bord_v1.0 Member=R28
+Removed Member From Class: ClassName=RS485_Demo_Bord_v1.0 Member=R39
+Change Component Designator: OldDesignator=+3 CLK DIO - NewDesignator=P1
+Change Component Designator: OldDesignator=ADC NewDesignator=P5
+Change Component Designator: OldDesignator=RESET NewDesignator=K1
+Change Component Designator: OldDesignator=WIFI/BT NewDesignator=P6
+Added Pin To Net: NetName=PB0 Pin=D8-K
+Added Pin To Net: NetName=VCC3V Pin=R1-2
+Added Pin To Net: NetName=BOOT1 Pin=R9-2
+Added Pin To Net: NetName=BOOT0 Pin=R10-2
+Added Pin To Net: NetName=PB0 Pin=R22-2
+Added Pin To Net: NetName=BOOT1 Pin=S1-7
+Added Pin To Net: NetName=BOOT0 Pin=S1-8
+Added Pin To Net: NetName=ADC2 Pin=U2-16
+Added Pin To Net: NetName=KEY1 Pin=K2-2
+Added Pin To Net: NetName=KEY1 Pin=K2-2
+Added Pin To Net: NetName=KEY1 Pin=U2-2
+Added Net: Name=KEY1
+Added Pin To Net: NetName=KEY2 Pin=K3-2
+Added Pin To Net: NetName=KEY2 Pin=K3-2
+Added Pin To Net: NetName=KEY2 Pin=P4-3
+Added Pin To Net: NetName=KEY2 Pin=U2-46
+Added Net: Name=KEY2
+Added Pin To Net: NetName=KEY3 Pin=K4-2
+Added Pin To Net: NetName=KEY3 Pin=K4-2
+Added Net: Name=KEY3
+Added Pin To Net: NetName=KEY4 Pin=K5-2
+Added Pin To Net: NetName=KEY4 Pin=K5-2
+Added Pin To Net: NetName=KEY4 Pin=U2-15
+Added Net: Name=KEY4
+Added Pin To Net: NetName=PA4 Pin=R4-2
+Added Pin To Net: NetName=PA4 Pin=S1-3
+Added Pin To Net: NetName=PA4 Pin=S1-4
+Added Pin To Net: NetName=PA4 Pin=U2-14
+Added Net: Name=PA4
+Added Pin To Net: NetName=S3 Pin=R1-1
+Added Pin To Net: NetName=S3 Pin=R8-2
+Added Pin To Net: NetName=S3 Pin=S1-6
+Added Net: Name=S3
+Added Pin To Net: NetName=S4 Pin=R7-2
+Added Pin To Net: NetName=S4 Pin=R8-1
+Added Pin To Net: NetName=S4 Pin=S1-5
+Added Net: Name=S4
+Added Room: Name=RS485_Demo_Bord_v1.0

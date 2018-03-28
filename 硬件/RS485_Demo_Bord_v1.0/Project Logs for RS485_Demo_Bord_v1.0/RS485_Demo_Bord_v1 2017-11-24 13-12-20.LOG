@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC3V Pin=OLED-1
+Added Component: Designator=R40(0805)
+Added Component: Designator=R41(0805)
+Added Pin To Net: NetName=VCC5V Pin=OLED-1
+Added Pin To Net: NetName=VCC5V Pin=R40-1
+Added Pin To Net: NetName=IIC_SDA Pin=R40-2
+Added Pin To Net: NetName=VCC5V Pin=R41-1
+Added Pin To Net: NetName=IIC_SCL Pin=R41-2
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R40 10K
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R41 10K
+Added Room: Name=RS485_Demo_Bord_v1.0

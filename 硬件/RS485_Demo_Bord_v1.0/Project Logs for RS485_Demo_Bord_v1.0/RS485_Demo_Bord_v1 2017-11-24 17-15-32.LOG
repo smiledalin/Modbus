@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CHECK_IN Pin=P4-3
+Removed Pin From Net: NetName=PB9 Pin=P4-4
+Added Pin To Net: NetName=PB9 Pin=P4-3
+Added Pin To Net: NetName=OSC32_IN Pin=P4-4
+Added Room: Name=RS485_Demo_Bord_v1.0

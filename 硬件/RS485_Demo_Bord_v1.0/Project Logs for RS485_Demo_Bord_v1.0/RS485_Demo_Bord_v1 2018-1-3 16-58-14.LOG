@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PB0 Pin=P4-3
+Removed Pin From Net: NetName=OSC32_IN Pin=P4-4
+Added Pin To Net: NetName=OSC32_IN Pin=P4-3
+Added Pin To Net: NetName=PB0 Pin=P4-4

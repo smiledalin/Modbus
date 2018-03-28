@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=485_TX Pin=U2-30
+Removed Pin From Net: NetName=485_RX Pin=U2-31
+Added Pin To Net: NetName=KEY Pin=U2-14
+Added Pin To Net: NetName=485_TX Pin=U2-21
+Added Pin To Net: NetName=485_RX Pin=U2-22
+Added Pin To Net: NetName=LED3 Pin=U2-38
+Added Pin To Net: NetName=LED2 Pin=U2-39
+Added Pin To Net: NetName=LED1 Pin=U2-40
+Added Pin To Net: NetName=LED0 Pin=U2-41
+Added Pin To Net: NetName=PA1 Pin=R30-2
+Added Pin To Net: NetName=PA1 Pin=U2-11
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA9 Pin=U2-30
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=U2-31
+Added Net: Name=PA10
+Added Room: Name=RS485_Demo_Bord_v1.0

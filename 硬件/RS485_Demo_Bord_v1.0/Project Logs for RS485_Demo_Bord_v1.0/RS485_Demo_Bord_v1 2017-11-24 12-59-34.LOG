@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=PA7 Pin=D8-K
+Added Pin To Net: NetName=PA7 Pin=R22-2
+Change Net Name : Old Net Name=PA5 New Net Name=ADC2
+Change Net Name : Old Net Name=PA6 New Net Name=ADC3
+Added Room: Name=RS485_Demo_Bord_v1.0

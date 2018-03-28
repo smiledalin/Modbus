@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VCC5V Pin=P1-1
+Removed Pin From Net: NetName=SWCLK Pin=P1-2
+Removed Pin From Net: NetName=SWDIO Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Member From Class: ClassName=stm32 f103c8t6_2 Member=1
+Removed Member From Class: ClassName=stm32 f103c8t6_2 Member=J1
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 4 New DesignItemId=Header 10X2
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X4 New Footprint=HDR2X10
+Change Component Comment : Designator=P1 Old Comment=Header 4 New Comment=Header 10X2
+Added Component: Designator=P2(XH_4_V)
+Added Component: Designator=P3(HDR1X4)
+Added Component: Designator=P4(HDR1X4)
+Added Pin To Net: NetName=VCC5V Pin=P1-1
+Added Pin To Net: NetName=SWCLK Pin=P1-2
+Added Pin To Net: NetName=SWDIO Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Change Class Name : Old Net Name=stm32 f103c8t6_2 New Net Name=RS485_Demo_Bord_v1.0
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component P2 Header 4
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component P3 Header 4
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component P4 Header 4
+Added Room: Name=RS485_Demo_Bord_v1.0

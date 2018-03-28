@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=OSC32_OUT Pin=R7-2
+Added Pin To Net: NetName=OSC32_IN Pin=R8-2
+Added Pin To Net: NetName=PC13 Pin=R9-2
+Added Pin To Net: NetName=PB9 Pin=R10-2
+Added Pin To Net: NetName=OSC32_OUT Pin=S1-5
+Added Pin To Net: NetName=OSC32_IN Pin=S1-6
+Added Pin To Net: NetName=PC13 Pin=S1-7
+Added Pin To Net: NetName=PB9 Pin=S1-8
+Added Room: Name=RS485_Demo_Bord_v1.0

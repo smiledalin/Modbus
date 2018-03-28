@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PA13 Pin=R33-2
+Change Net Name : Old Net Name=PA12 New Net Name=USB_P
+Added Pin To Net: NetName=USB_N Pin=R33-2
+Added Pin To Net: NetName=USB_N Pin=U2-32
+Added Net: Name=USB_N
+Added Differential Pair: Name=USB
+Added Room: Name=RS485_Demo_Bord_v1.0

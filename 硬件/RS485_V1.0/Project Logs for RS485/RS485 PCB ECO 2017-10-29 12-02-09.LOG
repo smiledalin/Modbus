@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=G2 NewDesignator=G3
+Added Component: Designator=G2(1812_C)
+Added Pin To Net: NetName=B Pin=G2-1
+Added Pin To Net: NetName=A Pin=G2-2
+Added Member To Class: ClassName=RS485 Member=Component G3 GDT
+Added Room: Name=RS485

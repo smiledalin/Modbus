@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=BOOT0 Pin=R2-2
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X4 New Footprint=XH_4_V
+Added Component: Designator=R4(0805)
+Added Pin To Net: NetName=VCC3V Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=BOOT0 Pin=R2-2
+Added Room: Name=RS485_Demo_Bord_v1.0

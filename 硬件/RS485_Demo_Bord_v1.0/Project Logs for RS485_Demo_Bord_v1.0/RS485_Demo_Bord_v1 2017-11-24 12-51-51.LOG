@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=IIC_SCL Pin=P2-2
+Added Pin To Net: NetName=IIC_SDA Pin=P2-3
+Added Pin To Net: NetName=VCC5V Pin=P2-4
+Added Pin To Net: NetName=VCC5V Pin=P3-1
+Added Pin To Net: NetName=485_A Pin=P3-2
+Added Pin To Net: NetName=485_B Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Room: Name=RS485_Demo_Bord_v1.0

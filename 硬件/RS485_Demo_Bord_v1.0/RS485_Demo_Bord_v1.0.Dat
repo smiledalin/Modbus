@@ -1,0 +1,27 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Quantity~Integer~Quantity~100|Field=Address1~String~Address1~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RS485_Demo_Bord_v1.0.PrjPcb|ReportField=ProjectFullPath~E:\Worksapce\Modbus\硬件\RS485_Demo_Bord_v1.0\RS485_Demo_Bord_v1.0.PrjPcb|ReportField=Title~Bill of Materials For Project [RS485_Demo_Bord_v1.0.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~97|ReportField=ReportTime~9:03:41|ReportField=ReportDate~2018/2/27|ReportField=ReportDateTime~2018/2/27 9:03:41|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018/2/27|ReportField=CurrentTime~9:03:38|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\Worksapce\Modbus\硬件\RS485_Demo_Bord_v1.0\RS485_Demo_Bord_v1.0.SchDoc|ReportField=DocumentName~RS485_Demo_Bord_v1.0.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018/1/25|ReportField=Organization~|ReportField=ProjectName~RS485_Demo_Bord_v1.0.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~RS485_Demo_Bord_v1.0.PrjPcb|ReportField=DataSourceFullPath~E:\Worksapce\Modbus\硬件\RS485_Demo_Bord_v1.0\RS485_Demo_Bord_v1.0.PrjPcb
+1|标志|1|
+2|104|17|
+3|22p|2|
+4|105|2|
+5|104|2|
+6|LED|8|
+7|FUSE|1|
+8|KEY|5|
+9|OLED|1|
+10|Header 4|4|
+11|Header 10X2|1|
+12|Header 4X2|1|
+13|S8050|1|
+14|10K|37|
+15|0|1|
+16|1K|1|
+17|SW DIP-4|1|
+18|TF_SD|1|
+19|24LC512|1|
+20|STM32F103C8T6|1|
+21|USB|3|
+22|AMS1117-3.3|1|
+23|CH340G|1|
+24|SP3485|1|
+25|8M|1|
+26|YY|1|

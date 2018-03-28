@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC22_2 Pin=R25-2
+Added Pin To Net: NetName=VCC3V Pin=R25-2
+Added Pin To Net: NetName=NetK2_2 Pin=R39-1
+Added Pin To Net: NetName=NetC22_2 Pin=R39-2
+Added Room: Name=RS485_Demo_Bord_v1.0

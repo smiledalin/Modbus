@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=PA3 Pin=D5-K
+Added Pin To Net: NetName=PA2 Pin=D7-K
+Added Pin To Net: NetName=PA4 Pin=R30-2
+Added Pin To Net: NetName=PA12 Pin=R32-2
+Added Pin To Net: NetName=SWDIO Pin=R33-2
+Added Pin To Net: NetName=PB12 Pin=R35-1
+Added Pin To Net: NetName=PB13 Pin=R36-1
+Added Pin To Net: NetName=PB12 Pin=TF1-2
+Added Pin To Net: NetName=PB13 Pin=TF1-5
+Added Pin To Net: NetName=ADC1 Pin=U2-10
+Added Pin To Net: NetName=MISO Pin=U2-27
+Added Pin To Net: NetName=MOSI Pin=U2-28
+Added Pin To Net: NetName=485_EN Pin=U2-29
+Added Pin To Net: NetName=485_TX Pin=U2-30
+Added Pin To Net: NetName=485_RX Pin=U2-31
+Added Pin To Net: NetName=SWDIO Pin=U2-34
+Added Pin To Net: NetName=SWCLK Pin=U2-37
+Added Pin To Net: NetName=PA3 Pin=U5-2
+Added Pin To Net: NetName=PA2 Pin=U5-3
+Change Net Name : Old Net Name=ADC2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=PA1 New Net Name=ADC2
+Change Net Name : Old Net Name=SWCLK New Net Name=PA14
+Change Net Name : Old Net Name=SWDIO New Net Name=PA13
+Added Room: Name=RS485_Demo_Bord_v1.0

@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=VCC3V Pin=P4-1
+Added Pin To Net: NetName=VCC3V Pin=P4-2
+Added Pin To Net: NetName=OSC32_IN Pin=P4-3
+Added Pin To Net: NetName=OSC32_OUT Pin=P4-4
+Added Pin To Net: NetName=PB9 Pin=P4-5
+Added Pin To Net: NetName=PC13 Pin=P4-6
+Added Pin To Net: NetName=PB1 Pin=P4-7
+Added Pin To Net: NetName=PB8 Pin=P4-8
+Added Pin To Net: NetName=ADC2 Pin=P4-9
+Added Pin To Net: NetName=PB0 Pin=P4-10
+Added Pin To Net: NetName=DAC Pin=P4-11
+Added Pin To Net: NetName=ADC3 Pin=P4-12
+Added Pin To Net: NetName=LED2 Pin=P4-13
+Added Pin To Net: NetName=LED3 Pin=P4-14
+Added Pin To Net: NetName=LED0 Pin=P4-15
+Added Pin To Net: NetName=LED1 Pin=P4-16
+Added Pin To Net: NetName=VCC5V Pin=P4-17
+Added Pin To Net: NetName=VCC5V Pin=P4-18
+Added Pin To Net: NetName=GND Pin=P4-19
+Added Pin To Net: NetName=GND Pin=P4-20
+Added Room: Name=RS485_Demo_Bord_v1.0

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VCC3V Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Pin From Net: NetName=ADC1 Pin=R5-3
+Removed Member From Class: ClassName=RS485_Demo_Bord_v1.0 Member=R5
+Added Component: Designator=P5(XH_4_V)
+Added Component: Designator=P6(HDR2X4)
+Added Pin To Net: NetName=VCC3V Pin=P5-1
+Added Pin To Net: NetName=VCC3V Pin=P5-2
+Added Pin To Net: NetName=ADC1 Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P5-4
+Change Net Name : Old Net Name=NetC20_2 New Net Name=DAC
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component C19 104
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component C20 104
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component D8 LED
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component P5 Header 4
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component P6 Header 4X2
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R18 10K
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R22 10K
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R23 10K
+Added Room: Name=RS485_Demo_Bord_v1.0

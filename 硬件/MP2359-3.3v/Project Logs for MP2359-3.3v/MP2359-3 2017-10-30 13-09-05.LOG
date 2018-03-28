@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U2 Old Footprint=SOT223 New Footprint=SOT-23 - duplicate1
+Added Member To Class: ClassName=MP2359-3.3v Member=Component C4 104
+Added Member To Class: ClassName=MP2359-3.3v Member=Component C5 105
+Added Room: Name=MP2359-3.3v

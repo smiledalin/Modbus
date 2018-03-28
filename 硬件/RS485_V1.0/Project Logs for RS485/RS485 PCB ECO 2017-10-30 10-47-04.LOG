@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=A Pin=J1-1
+Removed Pin From Net: NetName=B Pin=J1-4
+Added Pin To Net: NetName=B Pin=J1-1
+Added Pin To Net: NetName=A Pin=J1-4
+Added Room: Name=RS485

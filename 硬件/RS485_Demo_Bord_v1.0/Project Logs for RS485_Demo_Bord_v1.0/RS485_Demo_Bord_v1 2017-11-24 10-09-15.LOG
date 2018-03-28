@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=OLED1-1
+Removed Pin From Net: NetName=VCC5V Pin=OLED1-2
+Removed Pin From Net: NetName=IIC_SCL Pin=OLED1-3
+Removed Pin From Net: NetName=IIC_SDA Pin=OLED1-4
+Removed Member From Class: ClassName=RS485_Demo_Bord_v1.0 Member=OLED1

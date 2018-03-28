@@ -1,0 +1,169 @@
+Removed Pin From Net: NetName=GND Pin=D5-K
+Removed Pin From Net: NetName=NetD6_A Pin=D6-A
+Removed Pin From Net: NetName=VCC5V Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=BOOT0 Pin=R2-2
+Removed Pin From Net: NetName=NetD5_A Pin=R14-1
+Removed Pin From Net: NetName=VCC3V Pin=R15-1
+Removed Pin From Net: NetName=NetD6_A Pin=R15-2
+Removed Pin From Net: NetName=NetC19_2 Pin=R17-1
+Removed Pin From Net: NetName=PWM1 Pin=R17-2
+Removed Pin From Net: NetName=VCC5V Pin=R21-1
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 10X2 New DesignItemId=Header 4
+Change Component Footprint: Designator=P1 Old Footprint=HDR2X10 New Footprint=XH_4_V
+Change Component Comment : Designator=P1 Old Comment=Header 10X2 New Comment=Header 4
+Change Component Designator: OldDesignator=D6 NewDesignator=D8
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R23
+Change Component Designator: OldDesignator=R19 NewDesignator=R24
+Change Component Designator: OldDesignator=R20 NewDesignator=R29
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U3
+Added Component: Designator=D6(0805-LED-RED)
+Added Component: Designator=D7(0805-LED-RED)
+Added Component: Designator=K1(KEY_6)
+Added Component: Designator=K2(KEY_6)
+Added Component: Designator=K3(KEY_6)
+Added Component: Designator=K4(KEY_6)
+Added Component: Designator=K5(KEY_6)
+Added Component: Designator=OLED1(OLED__IIC_2)
+Added Component: Designator=P4(HDR2X10)
+Added Component: Designator=Q1(SOT23-3)
+Added Component: Designator=R4(0805)
+Added Component: Designator=R18(0805)
+Added Component: Designator=R22(0805)
+Added Component: Designator=R25(0805)
+Added Component: Designator=R26(0805)
+Added Component: Designator=R27(0805)
+Added Component: Designator=R28(0805)
+Added Component: Designator=R30(0805)
+Added Component: Designator=R31(0805)
+Added Component: Designator=R32(0805)
+Added Component: Designator=R33(0805)
+Added Component: Designator=U8(USB_MICRO_F)
+Added Pin To Net: NetName=TXDC Pin=D5-K
+Added Pin To Net: NetName=NetD6_A Pin=D5-A
+Added Pin To Net: NetName=GND Pin=D5-K
+Added Pin To Net: NetName=RXDC Pin=D7-K
+Added Pin To Net: NetName=RESET Pin=K1-1
+Added Pin To Net: NetName=RESET Pin=K1-1
+Added Pin To Net: NetName=GND Pin=K1-2
+Added Pin To Net: NetName=GND Pin=K1-2
+Added Pin To Net: NetName=GND Pin=K2-2
+Added Pin To Net: NetName=GND Pin=K2-2
+Added Pin To Net: NetName=GND Pin=K3-2
+Added Pin To Net: NetName=GND Pin=K3-2
+Added Pin To Net: NetName=GND Pin=K4-2
+Added Pin To Net: NetName=GND Pin=K4-2
+Added Pin To Net: NetName=GND Pin=K5-2
+Added Pin To Net: NetName=GND Pin=K5-2
+Added Pin To Net: NetName=GND Pin=OLED1-1
+Added Pin To Net: NetName=VCC5V Pin=OLED1-2
+Added Pin To Net: NetName=IIC_SCL Pin=OLED1-3
+Added Pin To Net: NetName=IIC_SDA Pin=OLED1-4
+Added Pin To Net: NetName=VCC3V Pin=P1-1
+Added Pin To Net: NetName=VCC3V Pin=Q1-3
+Added Pin To Net: NetName=VCC3V Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=BOOT0 Pin=R2-2
+Added Pin To Net: NetName=NetD5_A Pin=R15-1
+Added Pin To Net: NetName=VCC3V Pin=R15-2
+Added Pin To Net: NetName=NetD6_A Pin=R16-1
+Added Pin To Net: NetName=VCC3V Pin=R17-2
+Added Pin To Net: NetName=VCC3V Pin=R15-1
+Added Pin To Net: NetName=VCC3V Pin=R20-1
+Added Pin To Net: NetName=NetC19_2 Pin=R17-1
+Added Pin To Net: NetName=PWM1 Pin=R17-2
+Added Pin To Net: NetName=VCC3V Pin=R25-2
+Added Pin To Net: NetName=VCC3V Pin=R26-2
+Added Pin To Net: NetName=VCC3V Pin=R27-2
+Added Pin To Net: NetName=VCC3V Pin=R28-2
+Added Pin To Net: NetName=VCC5V Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-4
+Added Pin To Net: NetName=GND Pin=U8-5
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR6_1
+Added Pin To Net: NetName=KEY1 Pin=K2-1
+Added Pin To Net: NetName=KEY1 Pin=K2-1
+Added Pin To Net: NetName=KEY1 Pin=R28-1
+Added Net: Name=KEY1
+Added Pin To Net: NetName=KEY2 Pin=K3-1
+Added Pin To Net: NetName=KEY2 Pin=K3-1
+Added Pin To Net: NetName=KEY2 Pin=R27-1
+Added Net: Name=KEY2
+Added Pin To Net: NetName=KEY3 Pin=K4-1
+Added Pin To Net: NetName=KEY3 Pin=K4-1
+Added Pin To Net: NetName=KEY3 Pin=R26-1
+Added Net: Name=KEY3
+Added Pin To Net: NetName=KEY4 Pin=K5-1
+Added Pin To Net: NetName=KEY4 Pin=K5-1
+Added Pin To Net: NetName=KEY4 Pin=R25-1
+Added Net: Name=KEY4
+Added Pin To Net: NetName=NetD7_A Pin=D7-A
+Added Pin To Net: NetName=NetD7_A Pin=R17-1
+Added Net: Name=NetD7_A
+Added Pin To Net: NetName=NetD8_A Pin=D8-A
+Added Pin To Net: NetName=NetD8_A Pin=R15-2
+Added Net: Name=NetD8_A
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R30-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=R31-2
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-1
+Added Pin To Net: NetName=NetR2_2 Pin=U1-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR31_1 Pin=R31-1
+Added Pin To Net: NetName=NetR31_1 Pin=R32-1
+Added Pin To Net: NetName=NetR31_1 Pin=U8-3
+Added Net: Name=NetR31_1
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Pin To Net: NetName=NetR33_1 Pin=U8-2
+Added Net: Name=NetR33_1
+Added Pin To Net: NetName=USB_EN Pin=R30-2
+Added Net: Name=USB_EN
+Added Pin To Net: NetName=USB_N Pin=R33-2
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=R32-2
+Added Net: Name=USB_P
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component D7 LED
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component D8 LED
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component K1 KEY
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component K2 KEY
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component K3 KEY
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component K4 KEY
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component K5 KEY
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component OLED1 OLED
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component Q1 S8050
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R23 10K
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R24 10K
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R25 10K
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R26 10K
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R27 10K
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R28 10K
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R29 10K
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R30 1K
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R31 10K
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R32 10K
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component R33 10K
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component U8 USB
+Added Room: Name=RS485_Demo_Bord_v1.0

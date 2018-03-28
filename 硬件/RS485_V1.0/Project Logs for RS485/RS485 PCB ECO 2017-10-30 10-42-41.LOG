@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=485_A Pin=R7-2
+Removed Pin From Net: NetName=485_B Pin=T1-2
+Removed Pin From Net: NetName=485_B Pin=U4-6
+Removed Pin From Net: NetName=485_A Pin=U4-7
+Change Component Comment : Designator=PPTC1 Old Comment=10K New Comment=0.1A 60V
+Change Component Comment : Designator=PPTC2 Old Comment=10K New Comment=0.1A 60V
+Change Component Comment : Designator=R3 Old Comment=10K New Comment=3.3K
+Change Component Comment : Designator=R6 Old Comment=10K New Comment=4.7K
+Change Component Comment : Designator=R8 Old Comment=10K New Comment=4.7K
+Change Component Comment : Designator=R1 Old Comment=10K New Comment=5K
+Change Component Comment : Designator=R2 Old Comment=10K New Comment=5K
+Change Component Comment : Designator=R7 Old Comment=10K New Comment=120
+Change Component Comment : Designator=R4 Old Comment=10K New Comment=470
+Change Component Comment : Designator=C2 Old Comment=105 New Comment=4.7uF
+Change Component Comment : Designator=C4 Old Comment=105 New Comment=104
+Added Pin To Net: NetName=485_B Pin=R7-2
+Added Pin To Net: NetName=485_A Pin=T1-2
+Added Pin To Net: NetName=485_A Pin=U4-6
+Added Pin To Net: NetName=485_B Pin=U4-7
+Added Room: Name=RS485

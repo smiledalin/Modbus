@@ -1,0 +1,14 @@
+Added Component: Designator=OLED1(OLED__IIC_2)
+Added Component: Designator=OLED(OLED__IIC_1)
+Added Pin To Net: NetName=GND Pin=OLED1-1
+Added Pin To Net: NetName=VCC5V Pin=OLED1-2
+Added Pin To Net: NetName=IIC_SCL Pin=OLED1-3
+Added Pin To Net: NetName=IIC_SDA Pin=OLED1-4
+Added Pin To Net: NetName=VCC3V Pin=OLED-1
+Added Pin To Net: NetName=GND Pin=OLED-2
+Added Pin To Net: NetName=IIC_SCL Pin=OLED-3
+Added Pin To Net: NetName=IIC_SDA Pin=OLED-4
+Change Net Name : Old Net Name=NetC22_2 New Net Name=KEY
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component OLED1 OLED
+Added Member To Class: ClassName=RS485_Demo_Bord_v1.0 Member=Component OLED
+Added Room: Name=RS485_Demo_Bord_v1.0

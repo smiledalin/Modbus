@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC5V Pin=P4-2
+Added Pin To Net: NetName=VCC3V Pin=P4-2
+Added Pin To Net: NetName=PB0 Pin=P4-3
+Added Pin To Net: NetName=OSC32_IN Pin=P4-4
+Added Pin To Net: NetName=485_TX Pin=P4-5
+Added Pin To Net: NetName=485_EN Pin=P4-6
+Added Pin To Net: NetName=485_RX Pin=P4-7

@@ -1,0 +1,15 @@
+Added Component: Designator=U?(DC-DC-12v-5/3v-Mode)
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Member To Class: ClassName=MP2359-3.3v Member=Component U? DC-DC-12V-5V/3.3V MODE
+Added Room: Name=MP2359-3.3v
